@@ -80,5 +80,3 @@ Create and apply patches to the original litex and litex-boards packages to enab
 
 Under normal circumstances, you should see the following output:
 ![boot image](./linux_litex_alinx7020_boot.png)
-
-This translation provides clear instructions in English for both installation and running Linux on the specified hardware setup using the provided tools and scripts.
