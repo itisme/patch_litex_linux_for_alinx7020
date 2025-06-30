@@ -6,6 +6,9 @@
 
 Create and apply patches to the original litex and litex-boards packages to enable support for the Alinx7020 development board.
 
+### Notes
+Since the relevant parts of litex, litex-boards, and linux-on-litex-vexriscv have been merged into the mainline, the patch sections below are only applicable to older versions of these three projects.
+
 ### Operation Instructions (Tested on Linux)
 
 **Installation**

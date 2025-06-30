@@ -6,6 +6,9 @@
 ### 介绍
 本项目是针对 Alinx 7020 开发板的 Linux 系统移植，基于 litex 项目。
 
+### 注意
+由于litex、litex-boards、linux-on-litex-vexriscv 相关部分都已合入主线，一下的补丁部分只使用于上述3个项目的老版本。
+
 ### 操作说明（当前程序在Linux下测试运行）
 
 **安装**
